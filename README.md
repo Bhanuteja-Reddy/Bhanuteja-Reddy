@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=Bhanuteja-Reddy&color=brightgreen)
 
 
-### I’m [Bhanuteja Reddy](https://bhanutejareddy.netlify.app/), nice to meet you. Please take a look around!
+### I’m [Bhanuteja Reddy](https://bhanutejareddy.com/), nice to meet you. Please take a look around!
 
 I’m a Software Engineer and Full-Stack Web Developer with MERN Stack and PERN Stack.I am passionate about building excellent software that improves the lives of those around me. I specialize in building applications specific to the business needs of my clients.
 
@@ -11,12 +11,12 @@ I’m a Software Engineer and Full-Stack Web Developer with MERN Stack and PERN 
 
 - 🔭 I’m currently working on MERN Stack Web App development with Decoupled architecture
 - 🌱 I’m currently learning PWA and DevOps
-- 📝[Resume](https://bhanutejareddy.netlify.app/)
+- 📝[Resume](https://bhanutejareddy.com/)
 
 
 **Connect with me:**
 
-[![Linkedin Badge](https://img.shields.io/badge/-BhanutejaReddy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhanuteja-reddi-8a7aa2159/)](https://www.linkedin.com/in/bhanuteja-reddi-8a7aa2159/)
+[![Linkedin Badge](https://img.shields.io/badge/-BhanutejaReddy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhanuteja-reddi-8a7aa2159/)](https://www.linkedin.com/in/bhanutejareddi/)
 [![Whatsapp Badge](https://img.shields.io/badge/-BhanutejaReddy-2325D366?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/916300911141)](https://wa.me/916300911141)
 [![Twitter Badge](https://img.shields.io/badge/-%40BhanuTe85987775-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/BhanuTe85987775)](https://twitter.com/BhanuTe85987775)
 [![Facebook Badge](https://img.shields.io/badge/-%40BhanutejaReddy-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/rebats.rams)](https://www.facebook.com/rebats.rams)
